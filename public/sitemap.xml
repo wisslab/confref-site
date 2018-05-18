@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.confref.org/datasets/springer-conferences/</loc>
+    <lastmod>2016-07-12T10:37:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/about-us/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/</loc>
+    <lastmod>2016-07-12T10:37:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.confref.org/datasets/</loc>
+    <lastmod>2016-07-12T10:37:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
