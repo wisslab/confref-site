@@ -28,7 +28,7 @@ footer {
 }
 
 .gradient_corporate_color {
-    background-color: #5f6063; 
+    background-color: #88898c; 
 	
 }
 
@@ -180,7 +180,7 @@ img.pageLogo {
 
 /* eigene Zeilen */
 body {
-	background-color: #e9e9e9;
+	background-color: #eeeeee;
 }
 
 .col-md-4{
@@ -233,12 +233,12 @@ height: 5px;
 }
 
 h1 {
-    color: #a93741;
+    color: #f04f5b;
     margin-bottom: 30px;
 }
 
 h2, h3, h4 {
-    color: #3b8b93;
+    color: #54c5d0;
     margin-bottom: 30px;
     clear:both;
 }
