@@ -3,7 +3,7 @@
 **Verantwortlich für den Inhalt dieser Website:**
 
 
-WISS Research Group 2016
+WISS Research Group
 
 Prof. Dr. Kai Eckert  
 Hochschule der Medien  

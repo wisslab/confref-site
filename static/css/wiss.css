@@ -28,10 +28,8 @@ footer {
 }
 
 .gradient_corporate_color {
-    background-image: -moz-linear-gradient(center bottom , #283E99 100%); 
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(1, #283E99));
+    background-color: #5f6063; 
 	
-	background-color: #283E99;
 }
 
 .nav li {
@@ -235,12 +233,12 @@ height: 5px;
 }
 
 h1 {
-    color: #f8992b;
+    color: #a93741;
     margin-bottom: 30px;
 }
 
 h2, h3, h4 {
-    color: #489ec8;
+    color: #3b8b93;
     margin-bottom: 30px;
     clear:both;
 }
